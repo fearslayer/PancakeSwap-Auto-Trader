@@ -2,7 +2,7 @@
 A respository for autotrading on PancakeSwap V2 with MartinGale Strategy
 
 ## Disclaimer
-We (me and [Danieleleo99](https://github.com/Danieleleo99)) have modified an project of [modagavr](https://github.com/modagavr), downloadable [here](https://github.com/modagavr/pancakeswap-prediction-winner).
+We (me and [Danieleleo99](https://github.com/Danieleleo99)) have modified a project of [modagavr](https://github.com/modagavr), downloadable [here](https://github.com/modagavr/pancakeswap-prediction-winner).
 
 **We do not assume any responsibility** for the use of this software, and even on potential capital loss.
 
