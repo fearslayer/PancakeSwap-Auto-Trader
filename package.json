@@ -1,0 +1,20 @@
+{
+  "name": "pancakeswap-prediction-winner",
+  "version": "2.0.6",
+  "description": "This bot wins almost every 5 minute BNB-USD option on PancakeSwap",
+  "author": "Egor Gavrilov",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.4.6"
+  },
+  "devDependencies": {
+    "@types/node": "^16.7.10",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  }
+}
