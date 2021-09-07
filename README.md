@@ -3,10 +3,11 @@ A respository for autotrading on PancakeSwap V2 with MartinGale Strategy
 
 ## Disclaimer
 We (me and [Danieleleo99](https://github.com/Danieleleo99)) have modified an project of [modagavr](https://github.com/modagavr), downloadable [here](https://github.com/modagavr/pancakeswap-prediction-winner).
-We do not assume any responsibility for the use of this software, and even on potential capital loss.
+
+**We do not assume any responsibility** for the use of this software, and even on potential capital loss.
 
 ## Functionalities
-* This software chooses the same way as the original one, with the difference that it will try a Martingale Strategy on capital losses (untill the fourth loss).
+* This software chooses the same way as the original one, with the difference that it will try a **Martingale Strategy** on capital losses (untill the fourth loss).
 * We also worked on stabilyzing win claims, that were done too fast with a loss of capital whenever PancakeSwap V2 had some slowdowns on calculating rewards per trade.
 
 ## To Do List
